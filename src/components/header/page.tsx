@@ -10,6 +10,7 @@ export default function Header() {
         <Link to="/photosReportage">Reportage Photos</Link>
         <Link to="/albums">Chronique Album</Link>
         <Link to="/interviews">Interviews</Link>
+        <Link to="/connexion">Connexion</Link>
       </nav>
       <img src={Logo} alt="logo IsosScenes" />
     </header>
