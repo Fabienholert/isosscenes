@@ -1,3 +1,7 @@
 export default function Membres() {
-  return <div></div>;
+  return (
+    <div>
+      <form></form>
+    </div>
+  );
 }

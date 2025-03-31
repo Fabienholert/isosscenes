@@ -1,3 +1,7 @@
 export default function Interviews() {
-  return <div></div>;
+  return (
+    <div>
+      <h2>Interviews</h2>
+    </div>
+  );
 }

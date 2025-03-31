@@ -1,3 +1,7 @@
 export default function photosChroniques() {
-  return <div></div>;
+  return (
+    <div>
+      <h2>Concerts </h2>
+    </div>
+  );
 }

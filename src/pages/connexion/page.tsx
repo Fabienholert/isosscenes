@@ -1,3 +1,7 @@
 export default function Connexion() {
-  return <div></div>;
+  return (
+    <div>
+      <form></form>
+    </div>
+  );
 }
